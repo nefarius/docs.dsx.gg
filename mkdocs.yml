@@ -1,0 +1,24 @@
+site_name: DSX Documentation
+theme:
+  name: material
+
+
+markdown_extensions:
+  - admonition:
+  - attr_list:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.superfences:
+  - pymdownx.keys:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details:
+  - pymdownx.tilde:
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      social_url_shorthand: true
+
