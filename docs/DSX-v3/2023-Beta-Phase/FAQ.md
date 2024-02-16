@@ -2,7 +2,11 @@
 
 ## I just purchased the DSE DLC but the app still doesn't let me continue
 
+### Problem
+
 ![rhW7TGQ6gO.png](images/rhW7TGQ6gO.png)
+
+### Solution
 
 - Make sure DSX is **closed**
 - In Steam, navigate to the installation directory like so:  
