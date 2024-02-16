@@ -4,6 +4,8 @@
 
 ### Problem
 
+You can't advance past the `Get Beta Access` screen despite just having purchased the DSE DLC:
+
 ![rhW7TGQ6gO.png](images/rhW7TGQ6gO.png)
 
 ### Solution
